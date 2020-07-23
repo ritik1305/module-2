@@ -1,2 +1,2 @@
 # module-2
-Module 2 Assignment
+Module 2 Assignment Solution
